@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Groffy</string>
+    <string name="action_list_1">About App</string>
+
+    <string name="groceries_title">Groceries</string>
+    <string name="groceries_description">Groceries Description</string>
+    <string name="groceries_nutrients">Groceries Nutrients</string>
+    <string name="splashscreen">Groffy</string>
+    <string name="from">from</string>
+    <string name="author_app">Faradaii</string>
+    <string name="author">Author</string>
+    <string name="author_name">Kadek Faraday</string>
+    <string name="author_email">kdkfrdy@gmail.com</string>
+    <string name="app_name_full">Groffy - Groceries Simplify</string>
+    <string name="app_ver">version 0.1</string>
+    <string name="nutrients">Nutrients</string>
+    <string name="processing_benefits">Processing Benefits</string>
+    <string name="grocery_nutrients">grocery_nutrients</string>
+    <string name="grocery_processing_benefits">grocery_processing_benefits</string>
+    <string name="share">Share</string>
+    <string name="grocery_description">grocery_description</string>
+    <string name="grocery_image">grocery_image</string>
+    <string name="grocery_title">grocery_title</string>
+    <string name="grocery_price">grocery_price</string>
+    <string name="available_in_stocks">Available in stocks</string>
+    <string name="description">Description</string>
+
+
+    <string-array name="data_name">
+        <item>Apples</item>
+        <item>Bananas</item>
+        <item>Carrots</item>
+        <item>Tomatoes</item>
+        <item>Potatoes</item>
+        <item>Oranges</item>
+        <item>Strawberries</item>
+        <item>Blueberries</item>
+        <item>Spinach</item>
+        <item>Broccoli</item>
+        <item>Milk</item>
+        <item>Eggs</item>
+        <item>Bread</item>
+        <item>Butter</item>
+        <item>Cheese</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Apples are crisp, juicy fruits that come in a variety of colors including red, green, and yellow. They are packed with dietary fiber and vitamin C, making them excellent for digestive health and boosting the immune system. Whether eaten raw, baked into pies, or blended into smoothies, apples are a versatile and delicious fruit enjoyed year-round.</item>
+        <item>Bananas are a soft, sweet fruit known for their high potassium content, which is important for heart health and muscle function. In addition to being a natural energy booster, bananas are rich in vitamin B6 and dietary fiber. They are perfect as a snack, added to breakfast cereals, or blended into smoothies for a creamy texture.</item>
+        <item>Carrots are crunchy root vegetables that are best known for their high beta-carotene content, which the body converts into vitamin A, essential for eye health. With their vibrant orange color, carrots are not only nutritious but also delicious, whether eaten raw, roasted, or cooked into soups and stews. They are low in calories and rich in antioxidants, making them a great addition to any diet.</item>
+        <item>Tomatoes are juicy, flavorful fruits (often treated as vegetables) that are rich in vitamins A and C, as well as the antioxidant lycopene, which has been linked to heart health and cancer prevention. They are incredibly versatile, used in everything from fresh salads to rich sauces, and can be enjoyed raw, cooked, or blended into soups and juices.</item>
+        <item>Potatoes are a staple in many cuisines around the world. They are rich in carbohydrates, making them a great energy source, and contain important nutrients like vitamin C, potassium, and fiber. Whether baked, mashed, fried, or roasted, potatoes are versatile and comforting, perfect for any meal from breakfast to dinner.</item>
+        <item>Oranges are vibrant citrus fruits known for their refreshing flavor and high vitamin C content, which helps boost the immune system and promote healthy skin. They are also a good source of fiber and antioxidants, making them a nutritious snack or a delicious juice base. Oranges are commonly eaten fresh or used in cooking and baking to add a zesty flavor.</item>
+        <item>Strawberries are sweet, fragrant berries that are loaded with vitamin C, manganese, and powerful antioxidants. They are low in calories but high in flavor, making them perfect for adding to desserts, smoothies, or simply eating on their own. Their bright red color and juicy texture make strawberries a favorite for both fresh consumption and use in jams and baked goods.</item>
+        <item>Blueberries are small, deep blue berries that are famous for their high antioxidant content, particularly anthocyanins, which are linked to improved brain function and heart health. They are sweet and slightly tart, making them perfect for snacking, baking into muffins, or topping cereals and yogurts. Blueberries are also rich in vitamins C and K, promoting overall wellness.</item>
+        <item>Spinach is a dark leafy green vegetable that is packed with nutrients like iron, calcium, magnesium, and vitamins A and C. Known for its health benefits, spinach is great for bone health, skin, and immune function. It can be enjoyed raw in salads, sautéed as a side dish, or blended into smoothies for a nutritious boost.</item>
+        <item>Broccoli is a cruciferous vegetable that is rich in vitamins C, K, and folate, as well as fiber and antioxidants that help detoxify the body and boost immune health. It is a versatile vegetable that can be steamed, roasted, or stir-fried, making it a great addition to any meal. Its nutrient-dense profile makes it an excellent choice for promoting heart and digestive health.</item>
+        <item>Milk is a rich source of calcium, vitamin D, and protein, essential for building and maintaining strong bones and teeth. Whether consumed on its own or used in cooking and baking, milk provides important nutrients that support growth and development. It is also a key ingredient in many dairy products like yogurt, cheese, and butter.</item>
+        <item>Eggs are a versatile and highly nutritious food, rich in high-quality protein, vitamins B12, D, and A, and essential minerals like iron and zinc. Whether boiled, scrambled, or fried, eggs are a staple in many diets around the world. They are also a vital ingredient in baking and cooking, providing structure and richness to a wide variety of dishes.</item>
+        <item>Bread is a staple food made from flour, water, and yeast, providing carbohydrates and fiber. Whole wheat bread, in particular, offers additional nutrients like B vitamins and minerals, promoting digestive health and providing sustained energy. Bread is incredibly versatile, used for sandwiches, toast, or as a side to soups and salads.</item>
+        <item>Butter is a rich, creamy dairy product made from churned cream. It is packed with fat-soluble vitamins like A, D, E, and K, and adds flavor and texture to dishes. Whether spread on bread, used in baking, or melted over vegetables, butter is a delicious addition to many meals, contributing both richness and depth of flavor.</item>
+        <item>Cheese is a dairy product made from curdled milk and comes in many varieties, each with its own unique flavor and texture. It is rich in calcium, protein, and healthy fats, making it a nutritious and satisfying food. From sharp aged cheeses to soft creamy ones, cheese is enjoyed on its own, in sandwiches, or as an ingredient in cooking and baking.</item>
+    </string-array>
+
+
+    <string-array name="data_photo">
+        <item>https://static.libertyprim.com/files/familles/pomme-large.jpg?1569271834</item>
+        <item>https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e</item>
+        <item>https://cdn11.bigcommerce.com/s-kc25pb94dz/images/stencil/640w/products/271/762/Carrot__40927.1634584458.jpg?c=2</item>
+        <item>https://img.etimg.com/thumb/msid-95423731,width-650,height-488,imgsize-56196,resizemode-75/tomatoes-canva.jpg</item>
+        <item>https://images.unsplash.com/photo-1518977676601-b53f82aba655</item>
+        <item>https://www.artcaffemarket.co.ke/wp-content/uploads/2022/10/Artcaffe-Pixie-oranges.jpg</item>
+        <item>https://allmanhall.co.uk/wp-content/uploads/2019/06/Strawberries-on-white-background.jpg</item>
+        <item>https://www.melissas.com/cdn/shop/files/Blueberries_600x600.jpg?v=1721953367</item>
+        <item>https://gabbarfarms.com/cdn/shop/products/Spinach_2048x.jpg?v=1620713074</item>
+        <item>https://avocitrus.eu/wp-content/uploads/2017/08/brocoli.jpg</item>
+        <item>https://images.unsplash.com/photo-1550583724-b2692b85b150</item>
+        <item>https://sribalajistore.com/wp-content/uploads/2024/04/eggs.jpg</item>
+        <item>https://blog.naturesbasket.co.in/wp-content/uploads/2018/10/A-World-of-Breads.jpg</item>
+        <item>https://www.webexhibits.org/butter/i/thumb/iStock_000006937653Small.jpg</item>
+        <item>https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d</item>
+    </string-array>
+
+    <integer-array name="data_price">
+        <item>200000</item>
+        <item>150000</item>
+        <item>100000</item>
+        <item>120000</item>
+        <item>90000</item>
+        <item>110000</item>
+        <item>140000</item>
+        <item>180000</item>
+        <item>130000</item>
+        <item>160000</item>
+        <item>50000</item>
+        <item>30000</item>
+        <item>40000</item>
+        <item>60000</item>
+        <item>80000</item>
+    </integer-array>
+
+    <string-array name="data_nutrients">
+        <item>Calories, Fiber, Vitamin C</item>
+        <item>Calories, Potassium, Vitamin B6</item>
+        <item>Calories, Vitamin A, Fiber</item>
+        <item>Calories, Vitamin C, Potassium</item>
+        <item>Calories, Fiber, Vitamin C</item>
+        <item>Calories, Vitamin C, Fiber</item>
+        <item>Calories, Vitamin C, Antioxidants</item>
+        <item>Calories, Fiber, Antioxidants</item>
+        <item>Calories, Iron, Vitamin K</item>
+        <item>Calories, Fiber, Vitamin C</item>
+        <item>Calories, Calcium, Vitamin D</item>
+        <item>Calories, Protein, Vitamin B12</item>
+        <item>Calories, Carbohydrates, Fiber</item>
+        <item>Calories, Fat, Vitamin A</item>
+        <item>Calories, Protein, Calcium</item>
+    </string-array>
+
+    <string-array name="data_processing_benefits">
+        <item>Can be eaten raw, baked, or made into applesauce. Rich in fiber and vitamin C, supports digestive health and boosts immunity.</item>
+        <item>Perfect for smoothies or eaten as a snack. High in potassium, helps regulate blood pressure and provides quick energy.</item>
+        <item>Can be eaten raw, steamed, or roasted. Packed with beta-carotene, promotes healthy vision and skin.</item>
+        <item>Great for sauces, salads, or roasted. Rich in antioxidants like lycopene, which may reduce the risk of heart disease and cancer.</item>
+        <item>Can be mashed, baked, or fried. A good source of potassium and vitamin C, helps maintain blood pressure and support immune function.</item>
+        <item>Consumed fresh or juiced. Loaded with vitamin C, supports immune health and improves skin texture.</item>
+        <item>Perfect for desserts or smoothies. High in antioxidants and vitamin C, supports heart health and skin health.</item>
+        <item>Can be eaten fresh, baked into muffins, or added to yogurt. Full of antioxidants, helps protect cells from damage and improves brain health.</item>
+        <item>Can be eaten raw in salads or cooked in soups and stir-fries. A great source of iron and calcium, supports bone health and energy production.</item>
+        <item>Ideal for steaming, roasting, or adding to stir-fries. Rich in vitamins C and K, supports immune function and bone health.</item>
+        <item>Consumed as a drink or added to recipes. Provides calcium and vitamin D, essential for strong bones and teeth.</item>
+        <item>Boiled, scrambled, or baked into dishes. Rich in protein and essential nutrients, supports muscle growth and brain function.</item>
+        <item>Used for sandwiches or toast. Whole wheat bread is a good source of fiber, which aids digestion and helps maintain steady blood sugar levels.</item>
+        <item>Used in cooking, baking, or as a spread. A source of healthy fats and vitamins, supports brain function and improves skin health when consumed in moderation.</item>
+        <item>Can be eaten as a snack, in sandwiches, or melted into dishes. High in calcium and protein, promotes bone health and provides energy.</item>
+    </string-array>
+
+
+</resources>
